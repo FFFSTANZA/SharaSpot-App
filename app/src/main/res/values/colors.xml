@@ -1,21 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Base Colors -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="blue">#92A3FD</color>
-    <color name="light_blue">#99c0fe</color>
-    <color name="purple">#C58BF2</color>
+    <!-- Premium Brand Colors - Modern & Sophisticated -->
+    <color name="primary">#4F46E5</color>           <!-- Indigo - Primary brand color -->
+    <color name="primary_dark">#4338CA</color>      <!-- Darker indigo for depth -->
+    <color name="primary_light">#6366F1</color>     <!-- Lighter indigo for hover states -->
 
-    <color name="GreyTransparent">#55A0A0A0</color>
-    <color name="DarkGreyTransparent">#595d62</color>
+    <color name="secondary">#8B5CF6</color>         <!-- Vibrant purple - Secondary accent -->
+    <color name="secondary_light">#A78BFA</color>   <!-- Light purple for subtle accents -->
 
+    <color name="accent">#06B6D4</color>            <!-- Cyan - Fresh tech-forward accent -->
+    <color name="accent_light">#22D3EE</color>      <!-- Light cyan for highlights -->
 
-    <color name="baby_blue">#d7e2fc</color>
-    <color name="powder_blue">#f4f7ff</color>
-    <color name="colorSnackBarError">#ED9B95</color>
-    <color name="colorSnackBarSuccess">#CAECA3</color>
+    <!-- Neutral Palette - Premium Grays -->
+    <color name="neutral_50">#F8FAFC</color>        <!-- Lightest gray - subtle backgrounds -->
+    <color name="neutral_100">#F1F5F9</color>       <!-- Very light gray -->
+    <color name="neutral_200">#E2E8F0</color>       <!-- Light gray - borders -->
+    <color name="neutral_300">#CBD5E1</color>       <!-- Medium-light gray -->
+    <color name="neutral_400">#94A3B8</color>       <!-- Medium gray - disabled text -->
+    <color name="neutral_500">#64748B</color>       <!-- True medium gray -->
+    <color name="neutral_600">#475569</color>       <!-- Dark gray - secondary text -->
+    <color name="neutral_700">#334155</color>       <!-- Darker gray -->
+    <color name="neutral_800">#1E293B</color>       <!-- Very dark gray -->
+    <color name="neutral_900">#0F172A</color>       <!-- Almost black - primary text -->
 
-    <color name="unselectedBattery">#d4ffbf</color>
-    <color name="selectedBattery">#99ff66</color>
+    <!-- Background Colors -->
+    <color name="background_primary">#FFFFFF</color>
+    <color name="background_secondary">#F8FAFC</color>
+    <color name="background_tertiary">#F1F5F9</color>
+
+    <!-- Status Colors - Professional & Subtle -->
+    <color name="success">#10B981</color>           <!-- Emerald green -->
+    <color name="success_light">#D1FAE5</color>     <!-- Light success background -->
+    <color name="error">#EF4444</color>             <!-- Modern red -->
+    <color name="error_light">#FEE2E2</color>       <!-- Light error background -->
+    <color name="warning">#F59E0B</color>           <!-- Amber -->
+    <color name="warning_light">#FEF3C7</color>     <!-- Light warning background -->
+    <color name="info">#3B82F6</color>              <!-- Blue -->
+    <color name="info_light">#DBEAFE</color>        <!-- Light info background -->
+
+    <!-- Battery Status - Modern Green Palette -->
+    <color name="battery_full">#10B981</color>      <!-- Emerald -->
+    <color name="battery_high">#34D399</color>      <!-- Light emerald -->
+    <color name="battery_medium">#FCD34D</color>    <!-- Amber -->
+    <color name="battery_low">#EF4444</color>       <!-- Red -->
+    <color name="battery_charging">#06B6D4</color>  <!-- Cyan -->
+
+    <!-- Legacy Compatibility (will be gradually replaced) -->
+    <color name="blue">#4F46E5</color>
+    <color name="light_blue">#6366F1</color>
+    <color name="purple">#8B5CF6</color>
+    <color name="baby_blue">#DBEAFE</color>
+    <color name="powder_blue">#F0F9FF</color>
+    <color name="GreyTransparent">#8094A3B8</color>
+    <color name="DarkGreyTransparent">#CC334155</color>
+    <color name="colorSnackBarError">#FEE2E2</color>
+    <color name="colorSnackBarSuccess">#D1FAE5</color>
+    <color name="unselectedBattery">#E0F2FE</color>
+    <color name="selectedBattery">#10B981</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#4F46E5</color>    <!-- Primary -->
+    <color name="gradient_end">#8B5CF6</color>      <!-- Secondary -->
+
+    <!-- Overlay Colors -->
+    <color name="overlay_dark">#80000000</color>    <!-- 50% black -->
+    <color name="overlay_light">#40FFFFFF</color>   <!-- 25% white -->
+
+    <!-- Surface Colors for Cards & Elevation -->
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_elevated">#F8FAFC</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_tertiary">#94A3B8</color>
+    <color name="text_disabled">#CBD5E1</color>
+    <color name="text_on_primary">#FFFFFF</color>
 </resources>

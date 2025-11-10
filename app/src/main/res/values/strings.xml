@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">EvoCharge</string>
+    <string name="app_name">SharaSpot</string>
 
     <string name="forgot_password"><u>Forgot your password?</u>.</string>
     <string name="issue_with_station"><u>Issue with Charging Station</u>.</string>

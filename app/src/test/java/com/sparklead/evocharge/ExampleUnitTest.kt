@@ -1,4 +1,4 @@
-package com.sparklead.evocharge
+package com.sparklead.sharaspot
 
 import org.junit.Test
 

@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/signUpFragment"
-        android:name="com.sparklead.evocharge.ui.fragments.SignUpFragment"
+        android:name="com.sparklead.sharaspot.ui.fragments.SignUpFragment"
         android:label="fragment_sign_up"
         tools:layout="@layout/fragment_sign_up" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/completeProfileFragment"
-        android:name="com.sparklead.evocharge.ui.fragments.CompleteProfileFragment"
+        android:name="com.sparklead.sharaspot.ui.fragments.CompleteProfileFragment"
         android:label="fragment_complete_profile"
         tools:layout="@layout/fragment_complete_profile" >
         <action
@@ -25,7 +25,7 @@
     </fragment>
     <fragment
         android:id="@+id/signInFragment"
-        android:name="com.sparklead.evocharge.ui.fragments.SignInFragment"
+        android:name="com.sparklead.sharaspot.ui.fragments.SignInFragment"
         android:label="SignInFragment" >
         <action
             android:id="@+id/action_signInFragment_to_welcomeFragment"
@@ -36,7 +36,7 @@
     </fragment>
     <fragment
         android:id="@+id/welcomeFragment"
-        android:name="com.sparklead.evocharge.ui.fragments.WelcomeFragment"
+        android:name="com.sparklead.sharaspot.ui.fragments.WelcomeFragment"
         android:label="fragment_welcome"
         tools:layout="@layout/fragment_welcome" >
         <action
@@ -45,7 +45,7 @@
     </fragment>
     <activity
         android:id="@+id/dashboardActivity"
-        android:name="com.sparklead.evocharge.ui.activities.DashboardActivity"
+        android:name="com.sparklead.sharaspot.ui.activities.DashboardActivity"
         android:label="activity_dashboard"
         tools:layout="@layout/activity_dashboard" />
 </navigation>

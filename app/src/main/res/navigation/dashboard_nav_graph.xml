@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.sparklead.evocharge.ui.fragments.HomeFragment"
+        android:name="com.sparklead.sharaspot.ui.fragments.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" >
         <action
@@ -19,7 +19,7 @@
     </fragment>
     <fragment
         android:id="@+id/chargingListFragment"
-        android:name="com.sparklead.evocharge.ui.fragments.ChargingListFragment"
+        android:name="com.sparklead.sharaspot.ui.fragments.ChargingListFragment"
         android:label="fragment_charging_list"
         tools:layout="@layout/fragment_charging_list" >
         <action
@@ -28,26 +28,26 @@
     </fragment>
     <fragment
         android:id="@+id/mapDetailsFragment"
-        android:name="com.sparklead.evocharge.ui.fragments.MapDetailsFragment"
+        android:name="com.sparklead.sharaspot.ui.fragments.MapDetailsFragment"
         android:label="fragment_map_details"
         tools:layout="@layout/fragment_map_details" />
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.sparklead.evocharge.ui.fragments.ProfileFragment"
+        android:name="com.sparklead.sharaspot.ui.fragments.ProfileFragment"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" />
     <fragment
         android:id="@+id/stationDetailsFragment"
-        android:name="com.sparklead.evocharge.ui.fragments.StationDetailsFragment"
+        android:name="com.sparklead.sharaspot.ui.fragments.StationDetailsFragment"
         android:label="fragment_station_details"
         tools:layout="@layout/fragment_station_details" >
         <argument
             android:name="chargingStation"
-            app:argType="com.sparklead.evocharge.models.ChargingStation" />
+            app:argType="com.sparklead.sharaspot.models.ChargingStation" />
     </fragment>
     <fragment
         android:id="@+id/scanQrFragment"
-        android:name="com.sparklead.evocharge.ui.fragments.ScanQrFragment"
+        android:name="com.sparklead.sharaspot.ui.fragments.ScanQrFragment"
         android:label="fragment_scan_qr"
         tools:layout="@layout/fragment_scan_qr" />
 </navigation>
