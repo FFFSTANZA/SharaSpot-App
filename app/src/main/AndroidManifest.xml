@@ -24,12 +24,12 @@
         android:usesCleartextTraffic="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.EvoCharge"
+        android:theme="@style/Theme.SharaSpot"
         tools:targetApi="31">
         <activity
             android:name=".ui.activities.DashboardActivity"
             android:exported="true"
-            android:theme="@style/Dashboard.Theme.EvoCharge">
+            android:theme="@style/Dashboard.Theme.SharaSpot">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -40,7 +40,7 @@
         <activity
             android:name=".ui.activities.AuthenticationActivity"
             android:exported="false"
-            android:theme="@style/Auth.Theme.EvoCharge">
+            android:theme="@style/Auth.Theme.SharaSpot">
         </activity>
         <activity
             android:name=".ui.activities.OnboardingActivity"

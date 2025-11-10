@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.sparklead.evocharge"
+    namespace = "com.sparklead.sharaspot"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.sparklead.evocharge"
+        applicationId = "com.sparklead.sharaspot"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

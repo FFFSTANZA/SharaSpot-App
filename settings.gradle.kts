@@ -15,6 +15,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "EvoCharge"
+rootProject.name = "SharaSpot"
 include(":app")
  

@@ -1,8 +1,8 @@
-# EvoCharge (SharaSpot) - Enterprise Implementation Roadmap
+# SharaSpot - Enterprise Implementation Roadmap
 
 ## Executive Summary
 
-**Current State:** EvoCharge is a functional MVP (Minimum Viable Product) Android application for EV charging station discovery with a basic Spring Boot backend. The application demonstrates core concepts but lacks enterprise-grade features required for production deployment.
+**Current State:** SharaSpot is a functional MVP (Minimum Viable Product) Android application for EV charging station discovery with a basic Spring Boot backend. The application demonstrates core concepts but lacks enterprise-grade features required for production deployment.
 
 **Tech Stack:**
 - **Frontend:** Android Native (Kotlin, MVVM, Hilt DI)
@@ -863,7 +863,7 @@
 ## Conclusion & Recommendations
 
 ### Summary
-EvoCharge/SharaSpot is a **solid MVP with clean architecture** but requires **significant enterprise hardening** across security, scalability, testing, and feature completeness. The current Spring Boot backend is **perfectly suitable for enterprise** with proper upgrades.
+SharaSpot/SharaSpot is a **solid MVP with clean architecture** but requires **significant enterprise hardening** across security, scalability, testing, and feature completeness. The current Spring Boot backend is **perfectly suitable for enterprise** with proper upgrades.
 
 ### Key Recommendations
 

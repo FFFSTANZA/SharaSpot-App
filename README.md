@@ -1,6 +1,6 @@
 ![Cover (1)](https://user-images.githubusercontent.com/94394661/278870241-7a5ce87a-ce34-417d-bcea-1b2025cf2854.png)
-# EvoCharge
-EvoCharge offers a one-stop solution for finding and booking charging locations. An Android application, written in Kotlin, seamlessly integrates with the [EvoCharge backend](https://github.com/Aditya-gupta99/EvoCharge-Backend), which is built using Spring Boot.
+# SharaSpot
+SharaSpot offers a one-stop solution for finding and booking charging locations. An Android application, written in Kotlin, seamlessly integrates with the SharaSpot backend, which is built using Spring Boot.
 
 ### Features
 - Map View for Finding Nearby Charging Stations.
@@ -12,9 +12,9 @@ EvoCharge offers a one-stop solution for finding and booking charging locations.
 - User Authentication.
 
 ### Status
-<a href="https://github.com/Aditya-gupta99/EvoCharge-App/releases"><img src="https://img.shields.io/github/v/release/Aditya-gupta99/EvoCharge-App" alt="release"/></a>
-<a href="https://github.com/Aditya-gupta99/EvoCharge-App/actions"><img src="https://img.shields.io/github/checks-status/Aditya-gupta99/EvoCharge-App/master?label=build" alt="build"/></a>
-<a href="https://github.com/Aditya-gupta99/EvoCharge-App/issues"><img src="https://img.shields.io/github/commit-activity/m/Aditya-gupta99/EvoCharge-App" alt="commit-activity"/></a>
+<a href="https://github.com/FFFSTANZA/SharaSpot-App/releases"><img src="https://img.shields.io/github/v/release/FFFSTANZA/SharaSpot-App" alt="release"/></a>
+<a href="https://github.com/FFFSTANZA/SharaSpot-App/actions"><img src="https://img.shields.io/github/checks-status/FFFSTANZA/SharaSpot-App/master?label=build" alt="build"/></a>
+<a href="https://github.com/FFFSTANZA/SharaSpot-App/issues"><img src="https://img.shields.io/github/commit-activity/m/FFFSTANZA/SharaSpot-App" alt="commit-activity"/></a>
 
 ## Screenshots
 
@@ -66,16 +66,16 @@ EvoCharge offers a one-stop solution for finding and booking charging locations.
 ## Development Setup 
 To start, ensure that you've successfully downloaded and properly configured the Android Studio SDK. You can refer to a guide detailing the setup process [here](http://developer.android.com/sdk/installing/index.html?pkg=studio).
 
-## Building the Code 
+## Building the Code
 1. Clone the repository
     ```sh
-    git clone https://github.com/Aditya-gupta99/EvoCharge-App.git
+    git clone https://github.com/FFFSTANZA/SharaSpot-App.git
     ```
 2. Open Android Studio.
 
 3. Click on 'Open an existing Android Studio project'
 
-4. Browse to the directory where you cloned the EvoCharge-App repo and click OK.
+4. Browse to the directory where you cloned the SharaSpot-App repo and click OK.
 
 5. Let Android Studio import the project.
 

@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:adjustViewBounds="true"
         android:padding="120sp"
-        android:src="@drawable/evocharge_logo"
+        android:src="@drawable/sharaspot_logo"
         app:layout_constraintBottom_toTopOf="@+id/btn_getting_started"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
